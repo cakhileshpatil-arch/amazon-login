@@ -1,2 +1,6 @@
 Hello this is login page code.
+<<<<<<< HEAD
 i am akhilesh patil c
+=======
+hgfdssdfgh
+>>>>>>> 94023e4 (Changes)
